@@ -6,15 +6,11 @@
 
 
 
-프로젝트의 자세한 설명은 NightCarebot.pdf
+프로젝트의 자세한 설명은 [NightCarebot.pdf](https://github.com/s1c5000/Night_Carebot_project/blob/master/NightCarebot.pdf) 에 있습니다.
 
-[NightCarebot.pdf]: https://github.com/s1c5000/Night_Carebot_project/blob/master/NightCarebot.pdf	"NightCarebot.pdf"
+Technical document : [Care-Bot Vegeta, The Night Patrol Utilizing Deep Learning-Technical document.pdf](https://github.com/s1c5000/Night_Carebot_project/blob/master/Care-Bot%20Vegeta%2C%20The%20Night%20Patrol%20Utilizing%20Deep%20Learning-Technical%20document.pdf)
 
-에 있습니다.
 
-기술문서
-
-[기술문서]: https://github.com/s1c5000/Night_Carebot_project/blob/master/Care-Bot%20Vegeta%2C%20The%20Night%20Patrol%20Utilizing%20Deep%20Learning-Technical%20document.pdf	"기술문서"
 
 
 
