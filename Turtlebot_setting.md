@@ -116,7 +116,9 @@ $ cd ~/catkin_ws && catkin_make -j1
 
 ifconfig로 ip주소를 확인하고
 
-![image-20210117003120204](C:\Users\s1c50\AppData\Roaming\Typora\typora-user-images\image-20210117003120204.png)
+![출처 : 로보티스](https://github.com/s1c5000/Night_Carebot_project/blob/master/media/%EC%BA%A1%EC%B2%98.PNG?raw=true "출처 : 로보티스")
+
+<출처 : 로보티스>
 
  bachrc를 수정해준다
 
@@ -124,9 +126,9 @@ ifconfig로 ip주소를 확인하고
 
 gedit ~/.bashrc로 bashrc들어갈수있다.
 
-![image-20210117003148017](C:\Users\s1c50\AppData\Roaming\Typora\typora-user-images\image-20210117003148017.png)
+![image-20210117003148017](https://github.com/s1c5000/Night_Carebot_project/blob/master/media/%EC%BA%A1%EC%B2%981.PNG?raw=true "출처 : 로보티스")
 
-![image-20210117003153890](C:\Users\s1c50\AppData\Roaming\Typora\typora-user-images\image-20210117003153890.png)
+<출처 : 로보티스>
 
 해당 그림처럼
 
